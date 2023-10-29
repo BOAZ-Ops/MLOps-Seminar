@@ -1,0 +1,3 @@
+[submodule "20231029-2nd-seminar/Model_Serving"]
+	path = 20231029-2nd-seminar/Model_Serving
+	url = https://github.com/Zerohertz/YOLO-Serving-Cookbook
